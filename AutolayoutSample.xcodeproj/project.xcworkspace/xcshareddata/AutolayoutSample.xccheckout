@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4E66316F-F0A0-4F66-8650-1112D9D20DB3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AutolayoutSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4ECA49580FA7AE4AECE27A710BB0ADCEFF8A648E</key>
+		<string>github.com:joehsieh/AutolayoutSample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AutolayoutSample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4ECA49580FA7AE4AECE27A710BB0ADCEFF8A648E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:joehsieh/AutolayoutSample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4ECA49580FA7AE4AECE27A710BB0ADCEFF8A648E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4ECA49580FA7AE4AECE27A710BB0ADCEFF8A648E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AutolayoutSample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
